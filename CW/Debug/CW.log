@@ -1,0 +1,9 @@
+﻿  HW.cpp
+c:\users\andrew hyun\c++ adventure\coding newbie\tutorial 9\cw\cw\hw.cpp(5): error C2955: 'std::array': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(365): note: see declaration of 'std::array'
+c:\users\andrew hyun\c++ adventure\coding newbie\tutorial 9\cw\cw\hw.cpp(9): error C2143: syntax error: missing ';' before '}'
+c:\users\andrew hyun\c++ adventure\coding newbie\tutorial 9\cw\cw\hw.cpp(9): error C3423: Use of incomplete type 'std::array'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(365): note: see declaration of 'std::array'
+  CW.cpp
+c:\users\andrew hyun\c++ adventure\coding newbie\tutorial 9\cw\cw\cw.cpp(16): error C3861: 'average': identifier not found
+  Generating Code...
